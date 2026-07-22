@@ -1,12 +1,17 @@
 # BotWhatsapp
 
-## Tecnologias
-
-- JavaScript
+## Lenguajes
+- {'size': 12985, 'node': {'name': 'JavaScript'}}
 
 ## Instalacion
 
-Clona el repositorio y sigue las instrucciones especificas del proyecto.
+```bash
+git clone https://github.com/Chichimokers/BotWhatsapp.git
+cd BotWhatsapp
+pip install -r requirements.txt  # o npm install
+python run.py  # o npm run dev
+```
 
 ---
-(c) 2026 Chichimokers -- https://github.com/Chichimokers/BotWhatsapp
+
+(c) 2026 Chichimokers - Proyecto Privado
